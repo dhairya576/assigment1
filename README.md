@@ -1,4 +1,4 @@
-# assigment1
-hi i Dhairya Agarwal
-here is the tasks that you give
-thanks
+# assigment1.
+Hi I Dhairya Agarwal,
+here is the tasks that you gave
+.Thanks
